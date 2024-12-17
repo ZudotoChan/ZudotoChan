@@ -22,13 +22,9 @@
 
 ---
 
-# 🌟 Animations
 
-Here’s an animated GIF for a pixel effect that could match your profile vibe:
 
 ![Pixel Animation](https://media.giphy.com/media/fx4m78wF1vThg/giphy.gif)
-
-Or, you can also find or create a **GIF animation** with your name or the tech stack you're learning to give a pixelated animation feel.
 
 
 
