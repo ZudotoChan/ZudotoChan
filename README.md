@@ -24,7 +24,7 @@
 
 
 
-![Pixel Animation](https://media.giphy.com/media/fx4m78wF1vThg/giphy.gif)
+![Pixel Animation](https://github.com/aseprite/aseprite.git)
 
 
 
